@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "pizza_mama.Controllers.ApiController",
+    "Method": "GetPizzas",
+    "RelativePath": "Api/GetPizzas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
